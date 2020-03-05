@@ -1,0 +1,49 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color:white;
+    padding:10px 20px;
+}
+.card{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.categories{
+    text-align: center;
+}
+hr{
+    border:1px solid orange;
+    width:50%;
+
+}
+.bag{
+    margin-top:65px;
+}
+.bg-color{
+    background-color: white;
+}
+.pal img{
+    width:90%;
+}
+footer{
+    text-align: center;
+}
+.image-border{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.text{
+    text-align: end;
+    color:gold;
+}
